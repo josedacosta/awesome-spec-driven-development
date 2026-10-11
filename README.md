@@ -49,10 +49,11 @@ Spec-Driven Development (SDD) is a development methodology where detailed specif
 ## Tools
 
 ### Design-First Tools
-- [Insomnia](https://insomnia.rest/) - API client with design-first workflow
-- [Stoplight Studio](https://stoplight.io/studio/) - Visual OpenAPI designer
 - [API Blueprint](https://apiblueprint.org/) - High-level API description language
+- [Insomnia](https://insomnia.rest/) - API client with design-first workflow
 - [RAML](https://raml.org/) - RESTful API Modeling Language
+- **[Reqode](https://reqode.com)** - Connects requirements, architecture and tests to give AI coding agents specification context.
+- [Stoplight Studio](https://stoplight.io/studio/) - Visual OpenAPI designer
 
 ### Code Generation
 - [OpenAPI Generator](https://openapi-generator.tech/) - Generate clients, servers, and documentation from OpenAPI specs
