@@ -49,6 +49,7 @@ Spec-Driven Development (SDD) is a development methodology where detailed specif
 ## Tools
 
 ### Design-First Tools
+- [MySpec](https://myspec.dev?utm_source=github&utm_medium=referral&utm_campaign=gh-josedacosta-awesome-sdd) - Interactive specification workbench for contract-first design, OpenAPI schema modeling, and agent alignment.
 - [Insomnia](https://insomnia.rest/) - API client with design-first workflow
 - [Stoplight Studio](https://stoplight.io/studio/) - Visual OpenAPI designer
 - [API Blueprint](https://apiblueprint.org/) - High-level API description language
